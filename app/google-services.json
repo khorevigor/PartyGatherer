@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087367351607",
+    "project_id": "party-gatherer",
+    "storage_bucket": "party-gatherer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087367351607:android:738fbd7aeea59098ee9eb2",
+        "android_client_info": {
+          "package_name": "com.dsphoenix.partygatherer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087367351607-1mv28rphkqc7bkc9ogivn130rud2jim1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFua6MDb8YrJgftXvQXLyw_A8kfkFiZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087367351607-1mv28rphkqc7bkc9ogivn130rud2jim1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
