@@ -9,4 +9,6 @@ class EventsRepository @Inject constructor(
 ) {
 
     suspend fun addEvent(event: Event) = firestore.writeEvent(event)
+
+    suspend fun getAllEvents() = firestore.getEventsCollection()
 }
